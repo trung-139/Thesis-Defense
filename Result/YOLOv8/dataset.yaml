@@ -1,0 +1,12 @@
+names:
+- "C\u1EA5m ng\u01B0\u1EE3c chi\u1EC1u"
+- "C\u1EA5m d\u1EEBng v\xE0 \u0111\u1ED7"
+- "C\u1EA5m r\u1EBD"
+- "Gi\u1EDBi h\u1EA1n t\u1ED1c \u0111\u1ED9"
+- "C\u1EA5m c\xF2n l\u1EA1i"
+- "Nguy hi\u1EC3m"
+- "Hi\u1EC7u l\u1EC7nh"
+nc: 7
+path: ..
+train: /notebooks/train3/train_aug/images
+val: /notebooks/train3/valid_aug/images
